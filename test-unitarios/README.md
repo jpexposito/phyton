@@ -24,6 +24,14 @@ Existen diversos frameworks para implementar pruebas unitarias. En este ejemplo 
 ##### assertIsInstance(a, b)	isinstance(a, b)
 ##### assertNotIsInstance(a, b)	not isinstance(a, b)
 
+En el ejemplo que se ha realizado obtendremos la siguiente salida:
+```
+test_mymodule.py
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+OK
+```
 ### Doctest
 
 La implementación de la prueba unitaria utilizando doctest se realiza junto con la documentación de una función o clase. Por ejemplo, siguiendo con nuestra función original sum, añadiremos una breve descripción en la documentación.
@@ -48,6 +56,28 @@ if __name__ == "__main__":
 Para ejecutarlo finalmente debes de ejecutar la siguiente sentencia:
 ```
 python3 -m doctest -v mymodule.py
+```
+Obtendrás una salida como la siguiente:
+```
+Trying:
+    sum(5, 7)
+Expecting:
+    12
+ok
+Trying:
+    sum(5, "Python")
+Expecting:
+    Traceback (most recent call last):
+        ...
+    TypeError
+ok
+1 items had no tests:
+    mymodule
+1 items passed all tests:
+   2 tests in mymodule.sum
+2 tests in 2 items.
+2 passed and 0 failed.
+Test passed.
 ```
 ## Siempre recuerda
 Cuando realizas test, te auto ayudas a tí y sobre ayudas a todos aquellos desarrolladores que toquen el código después de tí, ya que tendrán una herramienta con la que evaluar el desarrollo y realizar una entrega con confianza del proyecto.
