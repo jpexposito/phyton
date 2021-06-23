@@ -5,6 +5,9 @@ import unittest
 import mymodule
 
 
+"""
+Ejemplos de Test utilizando la libreria unittest
+"""
 class TestMyModule(unittest.TestCase):
     
     def test_sum(self):
