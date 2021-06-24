@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/jpexposito/jpexposito/blob/main/imagen/python.png"  width="25%" height="25%" alt="Phyton @jpexposito">
+<img align="center" src="https://github.com/jpexposito/jpexposito/blob/main/imagen/python.png"  width="30%" height="30%" alt="Phyton @jpexposito">
 Referencia: https://www.freepng.es/
 
 # Phyton
