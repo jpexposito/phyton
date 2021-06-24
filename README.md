@@ -1,3 +1,6 @@
+<img align="center" src="https://github.com/jpexposito/jpexposito/blob/main/imagen/python.png"  width="25%" height="25%" alt="Phyton @jpexposito">
+Referencia: https://www.freepng.es/
+
 # Phyton
 Python es uno de los lenguajes de programación dinámicos más populares en el mundo. Aunque es considerado a menudo como un lenguaje "scripting", es realmente un lenguaje de propósito general.
 ## Repositorio
