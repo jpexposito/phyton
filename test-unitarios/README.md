@@ -1,5 +1,6 @@
 <img align="center" src="https://github.com/jpexposito/jpexposito/blob/main/imagen/test.png"  width="25%" height="25%" alt="Test Unitarios @jpexposito">
 Referencia: https://www.freepng.es/png-27xb2m/
+
 # TEST-UNITARIOS
 Este ejemplo, trata de introducir el concepto de test, para verificar si un módulo o conjunto de ellos funciona correctamente. El concepto Unit Test no se limita a un lenguaje específico, si no a una herramienta durante el ciclo de desarrollo de nuestro proyecto. Las pruebas unitarias se implementan de forma parelela al desarrollo, y se ejecutan para garantizar el correcto funcionamiento de nuestro proyecto. La clave para el correcto desarrollo del código y las pruebas unitarias, consiste en separar las responsabilidades, de modo que los test sólo deben comprobar que el código funciona correctamente.
 
