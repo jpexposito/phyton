@@ -7,6 +7,6 @@ Python es uno de los lenguajes de programación dinámicos más populares en el 
 Este repositorio estará dedicado a mostrar a través de ejemplos diferentes características de programación en el lenguaje. Por ejemplo: acceso a ficheros, listas, etc.
 
 ## Ejemplos realizados
-#### [Ficheros](fichero/README.md)
-#### [Test Unitarios](test-unitarios/README.md)
+#### [Ficheros](fichero)
+#### [Test Unitarios](test-unitarios)
 
